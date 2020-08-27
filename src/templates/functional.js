@@ -1,8 +1,7 @@
-import React from 'react';
-
+import React from 'react'
 
 const COMPONENT_NAME = () => {
-  return <div />;
-};
+  return <div />
+}
 
-export default COMPONENT_NAME;
+export default COMPONENT_NAME
